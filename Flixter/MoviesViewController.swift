@@ -65,7 +65,10 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         let movie = movies[indexPath.row]
         let title = movie["title"] as! String
         
-        cell.titleLabel.text = title 
+        let synopsis = movie["overview"] as! String
+        
+        cell.titleLabel.text = title
+        cell.synopsisLabel.text = synopsis
         
         return cell
     }
