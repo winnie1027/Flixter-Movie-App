@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 
-<img src="https://media.giphy.com/media/ttiFoeDq3KBee5FHql/giphy.gif" width=250><br>
+<img src="https://giphy.com/gifs/ttiFoeDq3KBee5FHql/html5" width=250><br>
 
 ### Notes
 I had to do this assignment twice because when I pulled from GitHub the last time it reset my whole code.
