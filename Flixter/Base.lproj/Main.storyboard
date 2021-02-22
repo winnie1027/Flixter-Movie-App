@@ -40,7 +40,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <collectionViewFlowLayout key="collectionViewLayout" automaticEstimatedItemSize="YES" minimumLineSpacing="10" minimumInteritemSpacing="10" id="uXw-eR-fn0">
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="uXw-eR-fn0">
                                     <size key="itemSize" width="197" height="237"/>
                                     <size key="headerReferenceSize" width="0.0" height="0.0"/>
                                     <size key="footerReferenceSize" width="0.0" height="0.0"/>
@@ -62,7 +62,7 @@
                                         </collectionViewCellContentView>
                                         <size key="customSize" width="197" height="237"/>
                                         <connections>
-                                            <outlet property="posterView" destination="kda-iY-CGb" id="HZf-3N-IEN"/>
+                                            <outlet property="posterView" destination="bO8-v4-B25" id="GKY-59-St4"/>
                                         </connections>
                                     </collectionViewCell>
                                 </cells>
@@ -73,7 +73,7 @@
                     </view>
                     <navigationItem key="navigationItem" title="Superhero" id="4dn-vv-Eiq"/>
                     <connections>
-                        <outlet property="collectionView" destination="kda-iY-CGb" id="63f-6I-N65"/>
+                        <outlet property="collectionView" destination="mfs-DW-7sF" id="w1t-AE-RI3"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Fpj-JA-SH5" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
