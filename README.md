@@ -18,8 +18,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <img src="http://g.recordit.co/vdFye1VpSa.gif" width=250><br>
 
-### Notes
-Had some minor issues but it was a smooth process overall.
 ---
 
 ## Flix Part 1
@@ -31,13 +29,7 @@ Had some minor issues but it was a smooth process overall.
 - [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
 - [x] (3pts) User can view the movie poster image for each movie.
 
-#### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
-
 ### App Walkthrough GIF
 
 <img src="http://g.recordit.co/vdFye1VpSa.gif" width=250><br>
 
-### Notes
-I had to do this assignment twice because when I pulled from GitHub the last time it reset my whole code.
